@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f06041e8268d41ceb7f32f06ec0b8257/artifacts
+end_time: 1753036955317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f06041e8268d41ceb7f32f06ec0b8257
+run_name: traveling-roo-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753036954920
+status: 3
+tags: []
+user_id: Asus

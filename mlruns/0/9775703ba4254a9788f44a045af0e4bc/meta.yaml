@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9775703ba4254a9788f44a045af0e4bc/artifacts
+end_time: 1753038379844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9775703ba4254a9788f44a045af0e4bc
+run_name: charming-trout-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753038375251
+status: 3
+tags: []
+user_id: Asus

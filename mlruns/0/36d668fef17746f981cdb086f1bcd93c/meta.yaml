@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/36d668fef17746f981cdb086f1bcd93c/artifacts
+end_time: 1753037584600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36d668fef17746f981cdb086f1bcd93c
+run_name: rumbling-ant-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753037584252
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bd085bf7ee7149808a06e70ad0c478f4/artifacts
+end_time: 1753036507347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd085bf7ee7149808a06e70ad0c478f4
+run_name: placid-ram-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753036506451
+status: 4
+tags: []
+user_id: Asus

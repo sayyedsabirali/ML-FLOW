@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2ba565b0f2c94af48bbad398c89483ef/artifacts
+end_time: 1753036005247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ba565b0f2c94af48bbad398c89483ef
+run_name: whimsical-shrimp-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753036005185
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/736331992253122505/4a5b968745d54422bee50cd1c24466c7/artifacts
+end_time: 1753037956554
+entry_point_name: ''
+experiment_id: '736331992253122505'
+lifecycle_stage: active
+run_id: 4a5b968745d54422bee50cd1c24466c7
+run_name: masked-shrew-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753037956193
+status: 3
+tags: []
+user_id: Asus
