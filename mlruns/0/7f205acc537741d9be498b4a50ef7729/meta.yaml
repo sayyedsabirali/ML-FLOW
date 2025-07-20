@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7f205acc537741d9be498b4a50ef7729/artifacts
+end_time: 1753035752809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f205acc537741d9be498b4a50ef7729
+run_name: shivering-shark-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753035752746
+status: 3
+tags: []
+user_id: Asus
