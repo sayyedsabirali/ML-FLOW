@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/b7217a081be9410688d70cc2139c62d5/artifacts
+end_time: 1753098006712
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: b7217a081be9410688d70cc2139c62d5
+run_name: intelligent-rook-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753097997391
+status: 3
+tags: []
+user_id: Asus

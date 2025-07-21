@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/8c7cc2f4e8424104b79b64720392eac8/artifacts
+end_time: 1753098002516
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: 8c7cc2f4e8424104b79b64720392eac8
+run_name: gaudy-slug-946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753098002436
+status: 3
+tags: []
+user_id: Asus

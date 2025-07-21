@@ -2,6 +2,7 @@ artifact_location: mlflow-artifacts:/0/models/m-7353d6db18e4407a8762884ae19fcf58
 creation_timestamp: 1753041825339
 experiment_id: '0'
 last_updated_timestamp: 1753041828426
+lifecycle_stage: deleted
 model_id: m-7353d6db18e4407a8762884ae19fcf58
 model_type: null
 name: model

@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/7af340b7cb6d4791b9256c5a9e2e69e3/artifacts
+end_time: 1753098003080
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: 7af340b7cb6d4791b9256c5a9e2e69e3
+run_name: enthused-duck-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753098002998
+status: 3
+tags: []
+user_id: Asus

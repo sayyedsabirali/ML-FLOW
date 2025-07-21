@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/caa2c924f44f450f81d146251517d969/artifacts
+end_time: 1753098002176
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: caa2c924f44f450f81d146251517d969
+run_name: languid-finch-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753098002091
+status: 3
+tags: []
+user_id: Asus

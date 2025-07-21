@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/ffac4fee75814fada3c1c419848fd954/artifacts
+end_time: 1753098002287
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: ffac4fee75814fada3c1c419848fd954
+run_name: dashing-quail-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753098002207
+status: 3
+tags: []
+user_id: Asus

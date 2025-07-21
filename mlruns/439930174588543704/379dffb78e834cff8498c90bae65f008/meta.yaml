@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/379dffb78e834cff8498c90bae65f008/artifacts
+end_time: 1753098002400
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: 379dffb78e834cff8498c90bae65f008
+run_name: amusing-fowl-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753098002316
+status: 3
+tags: []
+user_id: Asus

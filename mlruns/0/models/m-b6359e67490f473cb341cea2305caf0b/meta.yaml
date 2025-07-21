@@ -2,6 +2,7 @@ artifact_location: mlflow-artifacts:/0/models/m-b6359e67490f473cb341cea2305caf0b
 creation_timestamp: 1753088231829
 experiment_id: '0'
 last_updated_timestamp: 1753088234898
+lifecycle_stage: deleted
 model_id: m-b6359e67490f473cb341cea2305caf0b
 model_type: ''
 name: Random-Forest-Model

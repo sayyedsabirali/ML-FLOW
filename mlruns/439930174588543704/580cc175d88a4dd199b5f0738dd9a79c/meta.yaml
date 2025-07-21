@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/580cc175d88a4dd199b5f0738dd9a79c/artifacts
+end_time: 1753098001950
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: 580cc175d88a4dd199b5f0738dd9a79c
+run_name: casual-fish-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753098001868
+status: 3
+tags: []
+user_id: Asus

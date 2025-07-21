@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/7df989aabc69446eadb75c20e9eb1d75/artifacts
+end_time: 1753098002736
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: 7df989aabc69446eadb75c20e9eb1d75
+run_name: defiant-rook-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753098002656
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/b5d61ac98dbd4a528492f5c54866a04c/artifacts
+end_time: 1753098001836
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: b5d61ac98dbd4a528492f5c54866a04c
+run_name: burly-grouse-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753098001756
+status: 3
+tags: []
+user_id: Asus

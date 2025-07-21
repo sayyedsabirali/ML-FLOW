@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/b30a3188a58240f1a34adc9e1304ae7b/artifacts
+end_time: 1753098002848
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: b30a3188a58240f1a34adc9e1304ae7b
+run_name: powerful-kite-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753098002770
+status: 3
+tags: []
+user_id: Asus
