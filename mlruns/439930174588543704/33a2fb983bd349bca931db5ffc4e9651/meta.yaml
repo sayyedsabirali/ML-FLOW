@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/33a2fb983bd349bca931db5ffc4e9651/artifacts
+end_time: 1753088463689
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: 33a2fb983bd349bca931db5ffc4e9651
+run_name: luminous-loon-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753088463642
+status: 3
+tags: []
+user_id: Asus

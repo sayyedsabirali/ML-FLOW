@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/e7bd199705144bc1a39c8fc60c8235d0/artifacts
+end_time: 1753088463925
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: e7bd199705144bc1a39c8fc60c8235d0
+run_name: illustrious-crab-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753088463879
+status: 3
+tags: []
+user_id: Asus

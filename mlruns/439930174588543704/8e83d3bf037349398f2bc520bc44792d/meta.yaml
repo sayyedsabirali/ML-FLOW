@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/8e83d3bf037349398f2bc520bc44792d/artifacts
+end_time: 1753088463483
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: 8e83d3bf037349398f2bc520bc44792d
+run_name: dazzling-lark-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753088463438
+status: 3
+tags: []
+user_id: Asus

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/6b7eebd54a1048a2bd9cfe376335d525/artifacts
+deleted_time: 1753088252612
 end_time: 1753041828687
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6b7eebd54a1048a2bd9cfe376335d525
 run_name: hilarious-hen-997
 source_name: ''

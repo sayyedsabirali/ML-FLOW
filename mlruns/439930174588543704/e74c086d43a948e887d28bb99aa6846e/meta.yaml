@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/e74c086d43a948e887d28bb99aa6846e/artifacts
+end_time: 1753088463784
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: e74c086d43a948e887d28bb99aa6846e
+run_name: bedecked-jay-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753088463738
+status: 3
+tags: []
+user_id: Asus

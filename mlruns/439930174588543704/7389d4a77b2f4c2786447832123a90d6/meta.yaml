@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/7389d4a77b2f4c2786447832123a90d6/artifacts
+end_time: 1753088463736
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: 7389d4a77b2f4c2786447832123a90d6
+run_name: able-trout-597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753088463689
+status: 3
+tags: []
+user_id: Asus

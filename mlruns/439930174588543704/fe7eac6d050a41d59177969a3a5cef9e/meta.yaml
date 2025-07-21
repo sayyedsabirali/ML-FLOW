@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/fe7eac6d050a41d59177969a3a5cef9e/artifacts
+end_time: 1753088463879
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: fe7eac6d050a41d59177969a3a5cef9e
+run_name: painted-lark-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753088463838
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5c0f3e12577047eaa5a2a8b0687d1a4e/artifacts
+end_time: 1753088234906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c0f3e12577047eaa5a2a8b0687d1a4e
+run_name: angry-seal-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753088231200
+status: 3
+tags: []
+user_id: Asus

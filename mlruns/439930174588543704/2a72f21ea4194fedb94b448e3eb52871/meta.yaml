@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/2a72f21ea4194fedb94b448e3eb52871/artifacts
+end_time: 1753088463838
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: 2a72f21ea4194fedb94b448e3eb52871
+run_name: handsome-pig-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753088463784
+status: 3
+tags: []
+user_id: Asus

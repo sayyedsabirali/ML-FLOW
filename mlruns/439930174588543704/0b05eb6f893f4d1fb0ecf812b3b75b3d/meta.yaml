@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/0b05eb6f893f4d1fb0ecf812b3b75b3d/artifacts
+end_time: 1753088463546
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: 0b05eb6f893f4d1fb0ecf812b3b75b3d
+run_name: marvelous-horse-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753088463499
+status: 3
+tags: []
+user_id: Asus

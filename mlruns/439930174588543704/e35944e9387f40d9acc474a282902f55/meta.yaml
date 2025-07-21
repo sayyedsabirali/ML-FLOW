@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/e35944e9387f40d9acc474a282902f55/artifacts
+end_time: 1753088463973
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: e35944e9387f40d9acc474a282902f55
+run_name: chill-sloth-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753088463938
+status: 3
+tags: []
+user_id: Asus

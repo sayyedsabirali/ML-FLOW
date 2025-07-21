@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/ML-FLOW/mlruns/439930174588543704/16c0b6bc24db4c85ac3547ff8664edca/artifacts
+end_time: 1753088464020
+entry_point_name: ''
+experiment_id: '439930174588543704'
+lifecycle_stage: active
+run_id: 16c0b6bc24db4c85ac3547ff8664edca
+run_name: defiant-rat-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753088463973
+status: 3
+tags: []
+user_id: Asus
