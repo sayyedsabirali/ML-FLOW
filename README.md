@@ -23,19 +23,15 @@ This repository contains my learning code snippets while exploring **MLflow**, a
 Install the required libraries using:
 ```bash
 pip install mlflow scikit-learn
-
+```
 ## 🚀 How to Use
 
 ### ▶️ Run the MLflow UI locally:
 
 ```bash
 mlflow ui
-
+```
 Then open your browser and go to:
 http://localhost:5000
 to explore and visualize your experiment runs.
 
-🎯 Purpose of This Repo
-🧠 To track my progress while learning MLflow
-
-📂 To reuse base code snippets for future ML/MLOps projects
