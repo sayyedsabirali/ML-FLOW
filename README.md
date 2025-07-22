@@ -30,6 +30,7 @@ pip install mlflow scikit-learn
 
 ```bash
 mlflow ui
+uv run 01_first.py
 ```
 Then open your browser and go to:
 http://localhost:5000
